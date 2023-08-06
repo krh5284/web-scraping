@@ -3,7 +3,7 @@ Module 6 Web scraping
 Web mining and NLP
 Northwest Missouri State University
 
-This module uses Spacy to tokenize and lemmatize an article that was retrieved from a URL and the HTML saved to a .pkl file
+This module uses spaCy and BeautifulSoup to tokenize and lemmatize an article that was retrieved from a URL and the HTML saved to a .pkl file
 
 # Web Scraping and NLP with Requests, BeautifulSoup, and spaCy
 
